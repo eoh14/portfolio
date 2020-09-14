@@ -1,0 +1,40 @@
+h1,p{
+  background-color: #DDE0E3;
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+}
+
+p{
+  padding: 20px 10px;
+  border: 1px solid #5D6062;
+  margin-bottom: 50px;
+}
+
+em,strong{
+  background-color: #B2D6FF;
+}
+
+.ul-style {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #009DFF;
+}
+
+.list-style {
+  float: left;
+}
+
+#anchor-nav {
+  display: block;
+  color: pink;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #FF5D00;
